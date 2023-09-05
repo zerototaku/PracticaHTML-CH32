@@ -1,0 +1,35 @@
+p{
+    font: small-caps 100%/100% serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+a{
+    font: small-caps 100%/200% serif;
+    color: aliceblue;
+}
+
+h1,h2{
+    text-align: center;
+    color: aliceblue;
+}
+
+img{
+    display: block;
+    width: 30%;
+    margin: auto;
+
+}
+
+ol,li,ul{
+    font: small-caps 100%/100% serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+html {height: 390%;}
+body {background-image: linear-gradient(to bottom right, #dd2b2b, #404144, #C61717, rgb(58, 55, 54));}
+
+h3{
+    color: aliceblue;
+}
